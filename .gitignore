@@ -187,3 +187,4 @@ cython_debug/
 table.tex
 /baselines
 /test/*
+spfsplat.sif
